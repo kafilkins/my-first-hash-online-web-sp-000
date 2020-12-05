@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {"my apartment" = "Gateway"}
+  your_hash = {"my apartment" => "Gateway"}
 end
 
 
